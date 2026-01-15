@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Temporary files
+tmpclaude-*
+nul
+python
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
+
+# Test environment folder
+褐蚁一体机测试环境配置 166/
